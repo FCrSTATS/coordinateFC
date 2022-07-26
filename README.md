@@ -39,7 +39,7 @@ A list of builders that agree to build tools aligned with the principles of Coor
 <table>
   <tr>
     <td align="center"><a href="https://github.com/FCrSTATS"><img src="https://avatars.githubusercontent.com/u/35891964?v=4?s=100" width="100px;" alt=""/><br/><sub><b>FC rSTATS</b></sub></a><br/></td>
-    <td align="center"><a href="https://github.com/koenvo"><img src="https://pbs.twimg.com/profile_images/954736168192696321/pV0yZW3L_400x400.jpg?s=100" width="100px;" alt=""/><br/><sub><b>Koen Vossen</b></sub></a><br/></td>
+    <td align="center"><a href="https://github.com/koenvo"><img src="https://avatars.githubusercontent.com/u/3765024?v=4?s=100" width="100px;" alt=""/><br/><sub><b>Koen Vossen</b></sub></a><br/></td>
       
   </tr>
   

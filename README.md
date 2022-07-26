@@ -26,7 +26,7 @@ Once there is an agreed plan and set of standardisations a long period of develo
 Open source tools should be able to bring a huge benefit to a wide range of consumers; from clubs, federations, media companies, player management agencies as well as hobbyist analysts. Coodinate FC should aim to provide a framework to encourage funding of open source tools. 
 
 ## Current Discussions 
-1. TBC
+1. [Failures of Interoperability](https://github.com/FCrSTATS/coordinateFC/discussions/3)
 
 ## On the Teamsheet
 A list of builders that agree to build tools aligned with the principles of CoordinateFC. 

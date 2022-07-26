@@ -16,13 +16,13 @@ This is an initial attempt to try and map out the potential open source needs fo
 ![Mapping](https://github.com/FCrSTATS/coordinateFC/blob/main/images/coordinatefc.png?raw=true)
 
 ## Stages of Development 
-1. Discussions and Debates
+1. **Discussions and Debates: **
 There is a need for a collection of well informed builders to propose, debate and agree on some directions of travel and some standardisations of inputs and outputs between 'legos'. 
 
-2. Development 
+2. **Development: **
 Once there is an agreed plan and set of standardisations a long period of development would follow. This would include people starting brand new projects or pre-existing projects that need to adapt to the new standards. 
 
-3. Funding 
+3.** Funding: **
 Open source tools should be able to bring a huge benefit to a wide range of consumers; from clubs, federations, media companies, player management agencies as well as hobbyist analysts. Coodinate FC should aim to provide a framework to encourage funding of open source tools. 
 
 ## Current Discussions 

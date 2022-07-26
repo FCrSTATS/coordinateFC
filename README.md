@@ -33,33 +33,13 @@ A list of builders that agree to build tools aligned with the principles of Coor
     
 
         
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
   <tr>
     <td align="center"><a href="https://github.com/FCrSTATS"><img src="https://avatars.githubusercontent.com/u/35891964?v=4?s=100" width="100px;" alt=""/><br/><sub><b>FC rSTATS</b></sub></a><br/></td>
     <td align="center"><a href="https://github.com/koenvo"><img src="https://avatars.githubusercontent.com/u/3765024?v=4?s=100" width="100px;" alt=""/><br/><sub><b>Koen Vossen</b></sub></a><br/></td>
-      
-  </tr>
-  
-</table>
-
-<table>
-  <tr>
-    
-        <td align="center"><a href="https://github.com/FCrSTATS"><img src="https://avatars.githubusercontent.com/u/35891964?v=4?s=100" width="100px;" alt=""/><br /><sub><b>FC RSTATS</b></sub></a><br /></td>
-    
-        <td align="center"><a href="https://github.com/FCrSTATS"><img src="https://avatars.githubusercontent.com/u/35891964?v=4?s=100" width="100px;" alt=""/><br /><sub><b>FC RSTATS</b></sub></a><br /></td>
-    
-        <td align="center"><a href="https://github.com/FCrSTATS"><img src="https://avatars.githubusercontent.com/u/35891964?v=4?s=100" width="100px;" alt=""/><br /><sub><b>FC RSTATS</b></sub></a><br /></td>
-    
-        <td align="center"><a href="https://github.com/FCrSTATS"><img src="https://avatars.githubusercontent.com/u/35891964?v=4?s=100" width="100px;" alt=""/><br /><sub><b>FC RSTATS</b></sub></a><br /></td>
-    
   </tr>
 </table>
-
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->

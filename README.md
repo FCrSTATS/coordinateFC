@@ -30,8 +30,6 @@ Open source tools should be able to bring a huge benefit to a wide range of cons
 
 ## On the Teamsheet
 A list of builders that agree to build tools aligned with the principles of CoordinateFC. 
-    
-
         
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -43,3 +41,5 @@ A list of builders that agree to build tools aligned with the principles of Coor
 </table>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
+Want your name to be added here? DM me [here](https://www.twitter.com/fc_rstats)

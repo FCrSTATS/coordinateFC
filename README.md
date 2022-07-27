@@ -38,6 +38,9 @@ A list of builders that agree to build tools aligned with the principles of Coor
     <td align="center"><a href="https://github.com/FCrSTATS"><img src="https://avatars.githubusercontent.com/u/35891964?v=4?s=100" width="100px;" alt=""/><br/><sub><b>FC rSTATS</b></sub></a><br/></td>
     <td align="center"><a href="https://github.com/koenvo"><img src="https://avatars.githubusercontent.com/u/3765024?v=4?s=100" width="100px;" alt=""/><br/><sub><b>Koen Vossen</b></sub></a><br/></td>
     <td align="center"><a href="https://github.com/JanVanHaaren"><img src="https://avatars.githubusercontent.com/u/5039319?v=4?s=100" width="100px;" alt=""/><br/><sub><b>Jan Van Haaren</b></sub></a><br/></td>
+    <td align="center"><a href="https://github.com/PySport"><img src="https://avatars.githubusercontent.com/u/64007054?v=4?s=100" width="100px;" alt=""/><br/><sub><b>PySport</b></sub></a><br/></td>
+
+
 
   </tr>
 </table>
